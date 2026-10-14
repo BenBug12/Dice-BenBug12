@@ -1,0 +1,11 @@
+body {
+    background-color: #E3DAC9; /* Light beige background color (or Bone)*/
+}
+
+.title {
+    font-family: 'Arial', sans-serif; /* Use Arial font */
+    color: #333333; /* Dark gray text color */
+    text-align: center; /* Center the title */
+    margin-top: 20px; /* Add some space above the title */
+    text-align: center; /* Center the title vertically */
+}
